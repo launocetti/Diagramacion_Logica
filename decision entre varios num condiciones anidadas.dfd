@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+n
+7
+0
+1
+6
+n = 10
+7
+0
+1
+5
+n = 9
+7
+0
+1
+11
+n>6 and n<9
+7
+0
+1
+11
+n>4 and n<7
+7
+0
+1
+11
+n>0 and n<5
+4
+1
+7
+'ERROR'
+13
+4
+1
+19
+n, ' es deficiente'
+13
+13
+4
+1
+16
+n, ' es regular'
+13
+13
+4
+1
+14
+n, ' es bueno'
+13
+13
+4
+1
+18
+n, ' es muy bueno'
+13
+13
+4
+1
+22
+n, ' es sobresaliente'
+13
+1
