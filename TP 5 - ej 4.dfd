@@ -1,0 +1,115 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+2
+8
+producto
+2
+''
+4
+cant
+1
+0
+4
+1
+15
+'ingresar cant'
+5
+1
+4
+cant
+4
+1
+31
+'ingresar productos a facturar'
+8
+1
+1
+i
+1
+1
+1
+1
+4
+cant
+1
+1
+1
+6
+2
+1
+i
+3
+i+1
+4
+cant
+6
+cant+1
+12
+1
+8
+producto
+1
+62
+producto, precio, cantidad, impuesto, preciofinal, preciototal
+4
+1
+31
+'precio total es:' ,preciototal
+10
+1
+2
+1
+8
+producto
+1
+62
+producto, precio, cantidad, impuesto, preciofinal, preciototal
+0
+4
+1
+19
+'ingresar producto'
+5
+1
+8
+producto
+4
+1
+17
+'ingresar precio'
+5
+1
+6
+precio
+4
+1
+19
+'ingresar cantidad'
+5
+1
+8
+cantidad
+6
+3
+8
+impuesto
+13
+precio*21/100
+11
+preciofinal
+15
+precio+impuesto
+11
+preciototal
+20
+preciofinal*cantidad
+4
+1
+156
+'producto: ' ,producto, ' precio: ' ,precio, ' cantidad: ' ,cantidad, ' impuesto: ' , impuesto, ' preciofinal: ' ,preciofinal, ' preciototal: ' ,preciototal
+3

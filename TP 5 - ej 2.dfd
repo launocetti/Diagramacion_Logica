@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+hora
+1
+0
+3
+min
+1
+0
+3
+seg
+1
+0
+4
+1
+25
+'ingresar hora, min, seg'
+5
+1
+14
+hora, min, seg
+6
+2
+7
+seghora
+9
+hora*3600
+6
+segmin
+6
+min*60
+4
+1
+39
+'sumar: ,seghora + ,segmin + ,segundos'
+6
+1
+8
+segtotal
+18
+seghora+segmin+seg
+4
+1
+29
+'segundos totales:' ,segtotal
+1

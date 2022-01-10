@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+Apellido
+2
+''
+6
+Nombre
+2
+''
+8
+producto
+2
+''
+6
+2
+6
+precio
+1
+0
+8
+cantidad
+1
+0
+4
+1
+55
+'ingresar Apellido, Nombre, producto, precio, cantidad'
+5
+1
+44
+Apellido, Nombre, producto, precio, cantidad
+6
+1
+8
+impuesto
+13
+precio*21/100
+4
+1
+139
+'Apellido: ' ,Apellido, ' Nombre: ' ,Nombre, ' producto: ' ,producto, ' precio: ' ,precio, ' cantidad: ' ,cantidad, ' impuesto: ' ,impuesto
+1
